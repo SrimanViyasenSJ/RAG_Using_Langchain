@@ -1,0 +1,16 @@
+ The Premier League is a professional association football league in England and 
+    the highest level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and
+    relegation with the English Football League (EFL). Seasons usually run from August to May, with each team playing 38 matches: 
+    two against each other team, one home and one away.[1] Most games are played on weekend afternoons, with occasional weekday evening 
+    fixtures.
+
+    The competition was founded as the FA Premier League on 20 February 1992, following the decision of clubs from the First Division
+    (the top tier since 1888) to break away from the English Football League. Teams are still promoted and relegated to and from the 
+    EFL Championship each season. The Premier League is a corporation managed by a chief executive, with member clubs as shareholders.
+    The Premier League takes advantage of a £5 billion domestic television rights deal, with Sky and BT Group broadcasting 128 and 32 games, 
+    respectively.[4][5] This will rise to £6.7 billion from 2025 to 2029.[6] In the 2022–2025 cycle, the Premier League earned a record 
+    £5.6 billion from international rights.[7] As of 2023–24, Premier League clubs received central payments totalling £2.8 billion, 
+    with additional solidarity payments made to relegated EFL clubs.[8]
+
+
+
